@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=70c5b7f7_002Dfc76_002D4526_002D9e58_002D94904c4c3def/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Assign_Invalid_Token_To_Counter_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::CDEF8816-1C2D-42E2-ACF4-88E4FD3B44AB::.NETCoreApp,Version=v2.1::BankOperationsTests.BankCounterTests.Assign_Invalid_Token_To_Counter_Throws_Exception_Test&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::CDEF8816-1C2D-42E2-ACF4-88E4FD3B44AB::.NETCoreApp,Version=v2.1::BankOperationsTests.BankTokenTests.Generate_Deposit_Token_Test&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c97775af_002Ddec3_002D49c4_002D9a73_002D953ad7b1232d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Constructor_Test" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::CDEF8816-1C2D-42E2-ACF4-88E4FD3B44AB::.NETCoreApp,Version=v2.1::BankOperationsTests.BankCounterTests.Display_Bank_Token_Board_Test&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::CDEF8816-1C2D-42E2-ACF4-88E4FD3B44AB::.NETCoreApp,Version=v2.1::BankOperationsTests.BankTokenTests.Generate_Multiple_Withdraw_Tokens_Test&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
